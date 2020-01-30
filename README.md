@@ -1,6 +1,6 @@
 # Bootcamp GoStack - Módulo 01 / Desafio 01
 
-Node.js - Aplicação API REST Full, usada pra criar projetos e definir suas determinadas tarefas.
+Node.js / Express - Aplicação API REST Full, usada pra criar projetos e definir suas determinadas tarefas.
 
 **OBS:** Por se tratar de um projeto com finalidade de aplicar conhecimentos sobre APIs e Middlewares, não possui conexão com banco de 
 dados e suas informações são resetadas toda vez que a aplicação for iniciada.
