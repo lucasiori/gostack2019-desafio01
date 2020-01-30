@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" alt="gostack" width="200">
+</p>
+
 # Bootcamp GoStack - Módulo 01 / Desafio 01
 
 Node.js / Express - Aplicação API REST Full, usada pra criar projetos e definir suas determinadas tarefas.
@@ -24,14 +28,14 @@ npm start
 
 ### Endereço
 
-A aplicação por padrão será executada na porta 3333: **http://localhost:3333**
+A aplicação por padrão será executada na porta 3000: **http://localhost:3000**
 
 ### Rotas
 
 ```sh
 ---------------------- Projetos ----------------------
 GET    - '/projects'     - exibir todos os projetos
-            # retorno: retorn uma lista com todos os projetos cadastrados (json)
+            # retorno: retorna uma lista com todos os projetos cadastrados (json)
 
 POST   - '/projects'     - salvar novo projeto
             # corpo da requisição: { id: "id do projeto", title: "título do projeto" } (json)
